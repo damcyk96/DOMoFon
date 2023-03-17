@@ -1,4 +1,4 @@
-package com.awesomeproject;
+package com.bb8t.domofon;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
